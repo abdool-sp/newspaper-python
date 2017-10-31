@@ -1,5 +1,4 @@
-import sortArticle as SA
-from sortArticle import sortArticle
+
 import prep_news as pn
 from prep_news import PrepareNews
 import newspaper
